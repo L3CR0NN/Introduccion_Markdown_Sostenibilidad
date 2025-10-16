@@ -15,7 +15,7 @@ La sostenibilidad implica en como debemos hacer las cosas actualmente para tener
 | ODS3     |  Se usa la informatica para el diagnostico |
 
 
-  ![ODS](Escritorio/ODS/ODS-circulo.jpg)
+  ![ODS](ODS-circulo.jpg)
   
 * [ ] Optimizar el codigo
 * [ ] Alargar vida util
