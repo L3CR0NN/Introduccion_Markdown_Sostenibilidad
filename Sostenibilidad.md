@@ -1,5 +1,5 @@
 # Introduccion a la sostenibilidad
-La sostenibilidad implica en como debemos hacer las cosas actualmente para tener un futuro mejor pero sin comprometer las oportunidades de las generaciones futuras de cumplir con las suyas. Ha su vez tiene que tener un crecimiento economico una inclusion social y proteccion del medio ambiente a la vez.
+La sostenibilidad implica en como debemos hacer las cosas actualmente para tener un futuro mejor pero sin comprometer las oportunidades de las generaciones futuras de cumplir con las suyas. A su vez tiene que tener un crecimiento economico una inclusion social y proteccion del medio ambiente a la vez.
 
 - Ambiental: Energia asequible y no contaminante, produccion y consumo responsables, accion por el clima, conservar vida submarina, vida de ecosistemas terrestres, agua limpia y saneamiento.
   
