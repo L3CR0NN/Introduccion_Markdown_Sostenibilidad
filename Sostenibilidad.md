@@ -9,7 +9,8 @@ La sostenibilidad implica en como debemos hacer las cosas actualmente para tener
 
   > ONU
   
-| ODS       Relacionados con informatica                | 
+| ODS      | Relacionados con informatica               | 
+-----------|--------------------------------------------|
 | ODS9     | La informatica impulsa la innovacion       |       
 | ODS4     | Mejorar el acceso a la educacion           |
 | ODS3     |  Se usa la informatica para el diagnostico |
@@ -17,8 +18,8 @@ La sostenibilidad implica en como debemos hacer las cosas actualmente para tener
 
   ![ODS](ODS-circulo.jpg)
   
-* [ ] Optimizar el codigo
-* [ ] Alargar vida util
+* [ x] Optimizar el codigo
+* [ x] Alargar vida util
 * [ ] Configurar modo de ahorro
 * [ ] Digitalizar procesos
 * [ ] Fomentar el teletrabajo
